@@ -1,0 +1,15 @@
+D:\C#作业\第四次作业\D2\D2\bin\Debug\net6.0\D2.exe
+D:\C#作业\第四次作业\D2\D2\bin\Debug\net6.0\D2.deps.json
+D:\C#作业\第四次作业\D2\D2\bin\Debug\net6.0\D2.runtimeconfig.json
+D:\C#作业\第四次作业\D2\D2\bin\Debug\net6.0\D2.dll
+D:\C#作业\第四次作业\D2\D2\bin\Debug\net6.0\ref\D2.dll
+D:\C#作业\第四次作业\D2\D2\bin\Debug\net6.0\D2.pdb
+D:\C#作业\第四次作业\D2\D2\obj\Debug\net6.0\D2.csproj.AssemblyReference.cache
+D:\C#作业\第四次作业\D2\D2\obj\Debug\net6.0\D2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#作业\第四次作业\D2\D2\obj\Debug\net6.0\D2.AssemblyInfoInputs.cache
+D:\C#作业\第四次作业\D2\D2\obj\Debug\net6.0\D2.AssemblyInfo.cs
+D:\C#作业\第四次作业\D2\D2\obj\Debug\net6.0\D2.csproj.CoreCompileInputs.cache
+D:\C#作业\第四次作业\D2\D2\obj\Debug\net6.0\D2.dll
+D:\C#作业\第四次作业\D2\D2\obj\Debug\net6.0\ref\D2.dll
+D:\C#作业\第四次作业\D2\D2\obj\Debug\net6.0\D2.pdb
+D:\C#作业\第四次作业\D2\D2\obj\Debug\net6.0\D2.genruntimeconfig.cache
